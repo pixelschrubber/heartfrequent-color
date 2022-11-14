@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Power",
+        "fx": 15,
+        "segments": "all",
+        "strokebased": true,
+        "ip": "192.168.1.46"
+    }
+]
